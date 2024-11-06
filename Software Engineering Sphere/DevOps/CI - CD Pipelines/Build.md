@@ -1,0 +1,1 @@
+Compiling the source code into binary artifacts.

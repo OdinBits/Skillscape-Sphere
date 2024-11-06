@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "65f8fca0e84362ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ac0dea718657b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c914c356c563647d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Computing/Cloud Computing Book.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud Computing Book"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc71d71eec60a51e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4791dfb2aa8ec196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2be4bfb6c900d09d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b45fdb1291747576",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c025f6bb644679e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80433c2900b32eb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "90946b3ad722cbac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ddcc97df86b4084",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cloud Computing/Cloud Computing Book.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cloud Computing Book"
+            }
+          },
+          {
+            "id": "dc2cede9e54c5839",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cloud Computing/Cloud Computing Book.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cloud Computing Book"
+            }
+          },
+          {
+            "id": "2746b807772d41b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb2bdf526927e773",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevOps/DevOps Book.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DevOps Book"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c914c356c563647d",
+  "lastOpenFiles": [
+    "DevOps/DevOps Book.md",
+    "Untitled.canvas",
+    "Cloud Computing/Cloud Computing Book.md",
+    "InterConnections/Cloud & DevOps",
+    "InterConnections/Cloud & DevOps.md",
+    "InterConnections/Cloud & DevOps.canvas",
+    "Cloud Computing/Case Studies/Redable Code Helps to Navigate.md",
+    "Cloud Computing/Concepts/Defination.md",
+    "Cloud Computing/Best Practices/Code Redability.md",
+    "DevOps/CI - CD Pipelines/Build.md",
+    "DevOps/CI - CD Pipelines/Untitled",
+    "InterConnections",
+    "DevOps/Case Studies",
+    "DevOps/CI - CD Pipelines",
+    "DevOps/Tools",
+    "DevOps/Practices",
+    "Data Science/Tool & Libraries",
+    "Data Science/Projects",
+    "Data Science/Algorithms",
+    "Welcome.md"
+  ]
+}
